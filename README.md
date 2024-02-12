@@ -42,4 +42,7 @@ This project is licensed under the MIT License. For more information, see the li
 
 ## Repo
 ![Project Photo](image.png)
-You can find the repo [here](https://github.com/jbrowning824/ECommerce-Backend-Redesign)
+
+Check out the repo [ECommerce-Backend-Redesign](https://github.com/jbrowning824/ECommerce-Backend-Redesign)
+
+View the [walkthrough](https://drive.google.com/file/d/1xD3xZPXheZePQzSCooCxZA18ebrHEehT/view)
